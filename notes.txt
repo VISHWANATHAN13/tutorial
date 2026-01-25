@@ -1,2 +1,2 @@
-Version 1
-This is the original content.
+Version 3 (local final)
+Local content should overwrite remote.
